@@ -1,4 +1,4 @@
-# pendu
+# jeu-du-pendu
 
 Descriptif du projet
 Développez une version en ligne de ce fameux jeu qui ne se présente plus.
